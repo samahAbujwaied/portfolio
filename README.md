@@ -1,14 +1,13 @@
 ![https://hardcore-pare-9aeb1e.netlify.app/]
 
-Number and name of feature: ________________________________
+Number and name of feature: lab5
+Estimate of time needed to complete: 5 hours
 
-Estimate of time needed to complete: _____
+Start time:2
 
-Start time: _____
+Finish time: 11
 
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: 9
 
 
 
