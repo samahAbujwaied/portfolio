@@ -32,15 +32,15 @@ class BasicElements extends React.Component {
             <Row className="justify-content-center">
               <Col lg="12">
                 {/* Basic elements */}
-                <h2 className="mb-5">
+                {/* <h2 className="mb-5">
                   <span>Basic Elements</span>
-                </h2>
+                </h2> */}
                 {/* Buttons */}
-                <h3 className="h4 text-success font-weight-bold mb-4">
+                {/* <h3 className="h4 text-success font-weight-bold mb-4">
                   Buttons
-                </h3>
+                </h3> */}
                 {/* Button styles */}
-                <div>
+                {/* <div>
                   <Button color="primary" type="button">
                     Button
                   </Button>
@@ -64,7 +64,7 @@ class BasicElements extends React.Component {
                     </span>
                   </Button>
                   {/* Button wizes */}
-                  <div className="mb-3 mt-5">
+                  {/* <div className="mb-3 mt-5">
                     <small className="text-uppercase font-weight-bold">
                       Pick your size
                     </small>
@@ -83,9 +83,9 @@ class BasicElements extends React.Component {
                   >
                     Large Button
                   </Button>
-                </div>
+                </div> */} 
                 {/* Button colors */}
-                <div className="mb-3 mt-5">
+                {/* <div className="mb-3 mt-5">
                   <small className="text-uppercase font-weight-bold">
                     Pick your color
                   </small>
@@ -151,61 +151,61 @@ class BasicElements extends React.Component {
                   type="button"
                 >
                   Outline-danger
-                </Button>
+                </Button> */}
                 {/* Button links */}
-                <div className="mb-3 mt-5">
+                {/* <div className="mb-3 mt-5">
                   <small className="text-uppercase font-weight-bold">
                     Links
                   </small>
-                </div>
-                <Button
+                </div> */}
+                {/* <Button
                   className="text-default"
                   color="link"
                   href="#pablo"
                   onClick={e => e.preventDefault()}
                 >
                   Default
-                </Button>
-                <Button
+                </Button> */}
+                {/* <Button
                   className="text-primary ml-1"
                   color="link"
                   href="#pablo"
                   onClick={e => e.preventDefault()}
                 >
                   Primary
-                </Button>
-                <Button
+                </Button> */}
+                {/* <Button
                   className="text-info ml-1"
                   color="link"
                   href="#pablo"
                   onClick={e => e.preventDefault()}
                 >
                   Info
-                </Button>
-                <Button
+                </Button> */}
+                {/* <Button
                   className="text-success ml-1"
                   color="link"
                   href="#pablo"
                   onClick={e => e.preventDefault()}
                 >
                   Success
-                </Button>
-                <Button
+                </Button> */}
+                {/* <Button
                   className="text-warning ml-1"
                   color="link"
                   href="#pablo"
                   onClick={e => e.preventDefault()}
                 >
                   Warning
-                </Button>
-                <Button
+                </Button> */}
+                {/* <Button
                   className="text-danger ml-1"
                   color="link"
                   href="#pablo"
                   onClick={e => e.preventDefault()}
                 >
                   Danger
-                </Button>
+                </Button> */}
               </Col>
             </Row>
           </Container>

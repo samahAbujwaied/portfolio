@@ -19,7 +19,7 @@ import React from "react";
 
 // reactstrap components
 import { Button, Container, Row, Col } from "reactstrap";
-import reactWhite from "assets/img/brand/argon-react-white.png";
+// import reactWhite from "https://images.unsplash.com/photo-1624799995055-f7ad7c87aa9c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80";
 import creative from "assets/img/brand/creativetim-white-slim.png";
 
 class Hero extends React.Component {
@@ -49,14 +49,14 @@ class Hero extends React.Component {
                     <img
                       alt="..."
                       className="img-fluid"
-                      src={reactWhite}
+                      src={'https://avatars.githubusercontent.com/u/64910804?v=4'}
+                      // href="https://images.unsplash.com/photo-1624799995055-f7ad7c87aa9c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
                       style={{ width: "200px" }}
                     />
                     <p className="lead text-white">
-                      A beautiful Design System for Bootstrap 4. It's Free and
-                      Open Source.
+                      Samah Osama AbuJwaied
                     </p>
-                    <div className="btn-wrapper mt-5">
+                    {/* <div className="btn-wrapper mt-5">
                       <Button
                         className="btn-white btn-icon mb-3 mb-sm-0"
                         color="default"
@@ -83,10 +83,10 @@ class Hero extends React.Component {
                           on Github
                         </span>
                       </Button>
-                    </div>
+                    </div> */}
                     <div className="mt-5">
                       <small className="text-white font-weight-bold mb-0 mr-2">
-                        *proudly coded by
+                        *Portfolio ___
                       </small>
                       <img
                         alt="..."

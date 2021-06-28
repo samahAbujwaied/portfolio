@@ -61,13 +61,14 @@ class SimpleFooter extends React.Component {
                 </UncontrolledTooltip>
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
-                  color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  color="white"
+                  href="https://www.linkedin.com/in/samah-abujwaied-851011163/"
                   id="tooltip837440414"
                   target="_blank"
                 >
                   <span className="btn-inner--icon">
-                    <i className="fa fa-facebook-square" />
+                    <i className="fa fa-linkedin-square" />
+                    {/* <i class="icon-linkedin"/> */}
                   </span>
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip837440414">
@@ -90,7 +91,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/samahAbujwaied"
                   id="tooltip495507257"
                   target="_blank"
                 >
